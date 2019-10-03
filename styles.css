@@ -1,0 +1,101 @@
+html{box sizing:border-box;}
+*, *::before, *::after {box-sizing:inherit;}
+
+
+main{
+ display: flex;
+
+ 
+
+}
+
+
+label{
+    display: block;
+}
+
+div{
+    margin:00px 100px;
+}
+
+body{
+    
+    background: #5098cf;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: white;
+
+}
+
+div>form{
+    
+
+}
+   
+section{
+   
+
+}
+
+#uno{
+   
+   
+    float: left;
+
+}
+
+#dos{
+   
+    float: left;
+}
+
+
+#tres{
+   
+    float: left;
+
+}
+input:hover{
+    text-decoration: underline;}
+
+textarea{
+    background: #5098cf;
+}
+input{
+    border: 2px solid white;
+    padding: 5px;
+    background: #5098cf;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white; 
+}
+ 
+input:hover{
+    border:2px solid #445f78;
+}
+::placeholder{
+    color: #445f78;
+} 
+    
+
+textarea{
+    border: 2px solid white;
+}
+
+
+select{
+    background: #5098cf;
+}
+
+
+  
+    
+
+
+
+
+
+}
+
+
+
+
